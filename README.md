@@ -31,5 +31,5 @@ The **Colorful Spiral** project draws a dynamic spiral that changes colors seaml
 - 🌐 **Facebook** - [facebook.com/people/C7/61566373615325/](https://web.facebook.com/people/C7/61566373615325/)  
 - 💼 **LinkedIn** - [linkedin.com/in/codewithme-c7-b22856331](https://linkedin.com/in/codewithme-c7-b22856331)
 
-   [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+   [![Watch the video](https://github.com/C7-CodeWithMe/Colorful-Spiral-Script-/blob/dd208796acf76599495c78b12a5c94ca296a76c4/song.mp3)](https://www.youtube.com/watch?v=VIDEO_ID)
 
