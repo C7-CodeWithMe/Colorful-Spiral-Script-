@@ -22,17 +22,12 @@ Key features of the project:
 
 🔺 Follow me on social media:
 
-⛔YouTube Channel - 
-  youtube.com/channel/UCtgTRDzqbaRtpyNzy1fu1vA
+⛔YouTube Channel - youtube.com/channel/UCtgTRDzqbaRtpyNzy1fu1vA
 
-⛔GitHub -
-  https://github.com/C7-CodeWithMe
+⛔GitHub - https://github.com/C7-CodeWithMe
 
-⛔WhatsApp -  
-  https://whatsapp.com/channel/0029VakKpDWFnSzBSJEBuJ2u     
+⛔WhatsApp - https://whatsapp.com/channel/0029VakKpDWFnSzBSJEBuJ2u     
 
-⛔Facebook -
-https://web.facebook.com/people/C7/61566373615325/
+⛔Facebook - https://web.facebook.com/people/C7/61566373615325/
 
-⛔LinkedIn -
-https://linkedin.com/in/codewithme-c7-b22856331
+⛔LinkedIn - https://linkedin.com/in/codewithme-c7-b22856331
