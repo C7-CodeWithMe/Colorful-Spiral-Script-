@@ -19,3 +19,20 @@ Key features of the project:
 - Music playback 🎧 using `pygame`.
 - Press the "q" key to stop the program and music ⏹️.
 - Uses Python's `turtle` 🐢 for graphics and `pygame` 🎮 for audio.
+
+🔺 Follow me on social media:
+
+⛔YouTube Channel - 
+  youtube.com/channel/UCtgTRDzqbaRtpyNzy1fu1vA
+
+⛔GitHub -
+  https://github.com/C7-CodeWithMe
+
+⛔WhatsApp -  
+  https://whatsapp.com/channel/0029VakKpDWFnSzBSJEBuJ2u     
+
+⛔Facebook -
+https://web.facebook.com/people/C7/61566373615325/
+
+⛔LinkedIn -
+https://linkedin.com/in/codewithme-c7-b22856331
