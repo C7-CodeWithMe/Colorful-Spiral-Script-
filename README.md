@@ -29,4 +29,7 @@ The **Colorful Spiral** project draws a dynamic spiral that changes colors seaml
 - 💻 **GitHub** - [github.com/C7-CodeWithMe](https://github.com/C7-CodeWithMe)  
 - 📱 **WhatsApp** - [Join My Channel](https://whatsapp.com/channel/0029VakKpDWFnSzBSJEBuJ2u)  
 - 🌐 **Facebook** - [facebook.com/people/C7/61566373615325/](https://web.facebook.com/people/C7/61566373615325/)  
-- 💼 **LinkedIn** - [linkedin.com/in/codewithme-c7-b22856331](https://linkedin.com/in/codewithme-c7-b22856331)  
+- 💼 **LinkedIn** - [linkedin.com/in/codewithme-c7-b22856331](https://linkedin.com/in/codewithme-c7-b22856331)
+
+   [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
